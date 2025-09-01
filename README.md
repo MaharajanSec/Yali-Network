@@ -12,7 +12,7 @@ Built to assist **penetration testers** and **security researchers** during the 
 - Supports **TCP scanning** and fast execution.  
 - Displays **service banners** when available.
 
-(Network Banner Grabber)
+(Network Banner Grabber)('bannercap.py')
 - Extracts service banners from open ports.  
 - Helps identify running services, versions, and potential vulnerabilities.  
 - Supports common protocols: **HTTP, HTTPS, FTP, SSH, SMTP, custom ports**.
