@@ -1,4 +1,4 @@
-#Netrix Network Recon Suite
+#Yali Network Recon Suite
 
 A collection of **network reconnaissance tools** written in Python.  
 Built to assist **penetration testers** and **security researchers** during the discovery phase of assessments.
