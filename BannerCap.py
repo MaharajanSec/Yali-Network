@@ -97,7 +97,7 @@ def main():
         choice = input(f"{CYAN}Select an option (1-7): {RESET}").strip()
 
         if choice == "7":
-            print(f"{YELLOW}Goodbye 👋{RESET}")
+            print(f"{YELLOW}Goodbye{RESET}")
             break
 
         if choice in ["1","2","3","4","5","6"]:
